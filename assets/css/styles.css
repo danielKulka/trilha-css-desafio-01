@@ -10,7 +10,7 @@ body{
   height: 600px;
   width: 100vw;
   padding-top: 60px;
-  border-bottom: 1px solid #33A8DB80;
+  border-bottom: 10px solid #33A8DB80;
 }
 
 .banner-content {
